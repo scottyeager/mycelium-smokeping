@@ -1,0 +1,92 @@
+[
+ {
+   "Node ID": 1,
+   "Region": "DE",
+   "IPv4": "188.40.132.242",
+   "IPv6": "2a01:4f8:221:1e0b::2",
+   "Tcp port": 9651,
+   "Quic port": 9651,
+   "Mycelium IP": "54b:83ab:6cb5:7b38:44ae:cd14:53f3:a907"
+ },
+ {
+   "Node ID": 2,
+   "Region": "DE",
+   "IPv4": "136.243.47.186",
+   "IPv6": "2a01:4f8:212:fa6::2",
+   "Tcp port": 9651,
+   "Quic port": 9651,
+   "Mycelium IP": "40a:152c:b85b:9646:5b71:d03a:eb27:2462"
+ },
+ {
+   "Node ID": 3,
+   "Region": "BE",
+   "IPv4": "185.69.166.7",
+   "IPv6": "2a02:1802:5e:0:ec4:7aff:fe51:e80d",
+   "Tcp port": 9651,
+   "Quic port": 9651,
+   "Mycelium IP": "597:a4ef:806:b09:6650:cbbf:1b68:cc94"
+ },
+ {
+   "Node ID": 4,
+   "Region": "BE",
+   "IPv4": "185.69.166.8",
+   "IPv6": "2a02:1802:5e:0:ec4:7aff:fe51:e36b",
+   "Tcp port": 9651,
+   "Quic port": 9651,
+   "Mycelium IP": "549:8bce:fa45:e001:cbf8:f2e2:2da6:a67c"
+ },
+ {
+   "Node ID": 5,
+   "Region": "FI",
+   "IPv4": "65.21.231.58",
+   "IPv6": "2a01:4f9:6a:1dc5::2",
+   "Tcp port": 9651,
+   "Quic port": 9651,
+   "Mycelium IP": "410:2778:53bf:6f41:af28:1b60:d7c0:707a"
+ },
+ {
+   "Node ID": 6,
+   "Region": "FI",
+   "IPv4": "65.109.18.113",
+   "IPv6": "2a01:4f9:5a:1042::2",
+   "Tcp port": 9651,
+   "Quic port": 9651,
+   "Mycelium IP": "488:74ac:8a31:277b:9683:c8e:e14f:79a7"
+ },
+ {
+   "Node ID": 7,
+   "Region": "US-EAST",
+   "IPv4": "209.159.146.190",
+   "IPv6": "2604:a00:50:17b:9e6b:ff:fe1f:e054",
+   "Tcp port": 9651,
+   "Quic port": 9651,
+   "Mycelium IP": "4ab:a385:5a4e:ef8f:92e0:1605:7cb6:24b2"
+ },
+ {
+   "Node ID": 8,
+   "Region": "US-WEST",
+   "IPv4": "5.78.122.16",
+   "IPv6": "2a01:4ff:1f0:8859::1",
+   "Tcp port": 9651,
+   "Quic port": 9651,
+   "Mycelium IP": "4de:b695:3859:8234:d04c:5de6:8097:c27c"
+ },
+ {
+   "Node ID": 9,
+   "Region": "SG",
+   "IPv4": "5.223.43.251",
+   "IPv6": "2a01:4ff:2f0:3621::1",
+   "Tcp port": 9651,
+   "Quic port": 9651,
+   "Mycelium IP": "5eb:c711:f9ab:eb24:ff26:e392:a115:1c0e"
+ },
+ {
+   "Node ID": 10,
+   "Region": "IND",
+   "IPv4": "142.93.217.194",
+   "IPv6": "2400:6180:100:d0::841:2001",
+   "Tcp port": 9651,
+   "Quic port": 9651,
+   "Mycelium IP": "445:465:fe81:1e2b:5420:a029:6b0:9f61"
+ }
+]

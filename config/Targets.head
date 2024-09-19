@@ -1,0 +1,8 @@
+*** Targets ***
+
+probe = FPing
+
+menu = Top
+title = Network Latency Grapher
+remark = This target list is intended to check overall Mycelium connectivity, by targeting the public nodes, as well as checking a number of Mycelium enabled VMs. We also retain the default targets, to be able to correlate any general WAN failures.
+

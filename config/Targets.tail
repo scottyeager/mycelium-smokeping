@@ -1,0 +1,336 @@
++ MyceliumPublicNodesMyceliumIP
+
+menu = Mycelium Public Nodes Mycelium IP
+title = Mycelium Public Nodes Mycelium IP
+
+++ Mycelium_1_DE
+menu = Mycelium 1 DE
+title = Mycelium 1 DE
+host = 54b:83ab:6cb5:7b38:44ae:cd14:53f3:a907
+
+++ Mycelium_2_DE
+menu = Mycelium 2 DE
+title = Mycelium 2 DE
+host = 40a:152c:b85b:9646:5b71:d03a:eb27:2462
+
+++ Mycelium_3_BE
+menu = Mycelium 3 BE
+title = Mycelium 3 BE
+host = 597:a4ef:806:b09:6650:cbbf:1b68:cc94
+
+++ Mycelium_4_BE
+menu = Mycelium 4 BE
+title = Mycelium 4 BE
+host = 549:8bce:fa45:e001:cbf8:f2e2:2da6:a67c
+
+++ Mycelium_5_FI
+menu = Mycelium 5 FI
+title = Mycelium 5 FI
+host = 410:2778:53bf:6f41:af28:1b60:d7c0:707a
+
+++ Mycelium_6_FI
+menu = Mycelium 6 FI
+title = Mycelium 6 FI
+host = 488:74ac:8a31:277b:9683:c8e:e14f:79a7
+
+++ Mycelium_7_US-EAST
+menu = Mycelium 7 US-EAST
+title = Mycelium 7 US-EAST
+host = 4ab:a385:5a4e:ef8f:92e0:1605:7cb6:24b2
+
+++ Mycelium_8_US-WEST
+menu = Mycelium 8 US-WEST
+title = Mycelium 8 US-WEST
+host = 4de:b695:3859:8234:d04c:5de6:8097:c27c
+
+++ Mycelium_9_SG
+menu = Mycelium 9 SG
+title = Mycelium 9 SG
+host = 5eb:c711:f9ab:eb24:ff26:e392:a115:1c0e
+
+++ Mycelium_10_IND
+menu = Mycelium 10 IND
+title = Mycelium 10 IND
+host = 445:465:fe81:1e2b:5420:a029:6b0:9f61
+
++ MyceliumPublicNodesIPv4
+
+menu = Mycelium Public Nodes IPv4
+title = Mycelium Public Nodes IPv4
+
+++ Mycelium_1_DE_IPv4
+menu = Mycelium 1 DE IPv4
+title = Mycelium 1 DE IPv4
+host = 188.40.132.242
+
+++ Mycelium_2_DE_IPv4
+menu = Mycelium 2 DE IPv4
+title = Mycelium 2 DE IPv4
+host = 136.243.47.186
+
+++ Mycelium_3_BE_IPv4
+menu = Mycelium 3 BE IPv4
+title = Mycelium 3 BE IPv4
+host = 185.69.166.7
+
+++ Mycelium_4_BE_IPv4
+menu = Mycelium 4 BE IPv4
+title = Mycelium 4 BE IPv4
+host = 185.69.166.8
+
+++ Mycelium_5_FI_IPv4
+menu = Mycelium 5 FI IPv4
+title = Mycelium 5 FI IPv4
+host = 65.21.231.58
+
+++ Mycelium_6_FI_IPv4
+menu = Mycelium 6 FI IPv4
+title = Mycelium 6 FI IPv4
+host = 65.109.18.113
+
+++ Mycelium_7_US-EAST_IPv4
+menu = Mycelium 7 US-EAST IPv4
+title = Mycelium 7 US-EAST IPv4
+host = 209.159.146.190
+
+++ Mycelium_8_US-WEST_IPv4
+menu = Mycelium 8 US-WEST IPv4
+title = Mycelium 8 US-WEST IPv4
+host = 5.78.122.16
+
+++ Mycelium_9_SG_IPv4
+menu = Mycelium 9 SG IPv4
+title = Mycelium 9 SG IPv4
+host = 5.223.43.251
+
+++ Mycelium_10_IND_IPv4
+menu = Mycelium 10 IND IPv4
+title = Mycelium 10 IND IPv4
+host = 142.93.217.194
+
+
++ InternetSites
+
+menu = Internet Sites
+title = Internet Sites
+
+++ Facebook
+menu = Facebook
+title = Facebook
+host = facebook.com
+
+++ Youtube
+menu = YouTube
+title = YouTube
+host = youtube.com
+
+++ JupiterBroadcasting
+menu = JupiterBroadcasting
+title = JupiterBroadcasting
+host = jupiterbroadcasting.com
+
+++ GoogleSearch
+menu = Google
+title = google.com
+host = google.com
+
+++ GoogleSearchIpv6
+menu = Google
+probe = FPing6
+title = ipv6.google.com
+host = ipv6.google.com
+
+++ linuxserverio
+menu = linuxserver.io
+title = linuxserver.io
+host = linuxserver.io
+
++ Europe
+
+menu = Europe
+title = European Connectivity
+
+++ Germany
+
+menu = Germany
+title = The Fatherland
+
++++ TelefonicaDE
+
+menu = Telefonica DE
+title = Telefonica DE
+host = www.telefonica.de
+
+++ Switzerland
+
+menu = Switzerland
+title = Switzerland
+
++++ CernIXP
+
+menu = CernIXP
+title = Cern Internet eXchange Point
+host = cixp.web.cern.ch
+
++++ SBB
+
+menu = SBB
+title = SBB
+host = www.sbb.ch/en
+
+++ UK
+
+menu = United Kingdom
+title = United Kingdom
+
++++ CambridgeUni
+
+menu = Cambridge
+title = Cambridge
+host = cam.ac.uk
+
++++ UEA
+
+menu = UEA
+title = UEA
+host = www.uea.ac.uk
+
++ USA
+
+menu = North America
+title = North American Connectivity
+
+++ MIT
+
+menu = MIT
+title = Massachusetts Institute of Technology Webserver
+host = web.mit.edu
+
+++ IU
+
+menu = IU
+title = Indiana University
+host = www.indiana.edu
+
+++ UCB
+
+menu = U. C. Berkeley
+title = U. C. Berkeley Webserver
+host = www.berkeley.edu
+
+++ UCSD
+
+menu = U. C. San Diego
+title = U. C. San Diego Webserver
+host = ucsd.edu
+
+++ UMN
+
+menu =  University of Minnesota
+title = University of Minnesota
+host = twin-cities.umn.edu
+
+++ OSUOSL
+
+menu = Oregon State University Open Source Lab
+title = Oregon State University Open Source Lab
+host = osuosl.org
+
++ DNS
+menu = DNS
+title = DNS
+
+++ GoogleDNS1
+menu = Google DNS 1
+title = Google DNS 8.8.8.8
+host = 8.8.8.8
+
+++ GoogleDNS2
+menu = Google DNS 2
+title = Google DNS 8.8.4.4
+host = 8.8.4.4
+
+++ OpenDNS1
+menu = OpenDNS1
+title = OpenDNS1
+host = 208.67.222.222
+
+++ OpenDNS2
+menu = OpenDNS2
+title = OpenDNS2
+host = 208.67.220.220
+
+++ CloudflareDNS1
+menu = Cloudflare DNS 1
+title = Cloudflare DNS 1.1.1.1
+host = 1.1.1.1
+
+++ CloudflareDNS2
+menu = Cloudflare DNS 2
+title = Cloudflare DNS 1.0.0.1
+host = 1.0.0.1
+
+++ L3-1
+menu = Level3 DNS 1
+title = Level3 DNS 4.2.2.1
+host = 4.2.2.1
+
+++ L3-2
+menu = Level3 DNS 2
+title = Level3 DNS 4.2.2.2
+host = 4.2.2.2
+
+++ Quad9
+menu = Quad9
+title = Quad9 DNS 9.9.9.9
+host = 9.9.9.9
+
++ DNSProbes
+menu = DNS Probes
+title = DNS Probes
+probe = DNS
+
+++ GoogleDNS1
+menu = Google DNS 1
+title = Google DNS 8.8.8.8
+host = 8.8.8.8
+
+++ GoogleDNS2
+menu = Google DNS 2
+title = Google DNS 8.8.4.4
+host = 8.8.4.4
+
+++ OpenDNS1
+menu = OpenDNS1
+title = OpenDNS1
+host = 208.67.222.222
+
+++ OpenDNS2
+menu = OpenDNS2
+title = OpenDNS2
+host = 208.67.220.220
+
+++ CloudflareDNS1
+menu = Cloudflare DNS 1
+title = Cloudflare DNS 1.1.1.1
+host = 1.1.1.1
+
+++ CloudflareDNS2
+menu = Cloudflare DNS 2
+title = Cloudflare DNS 1.0.0.1
+host = 1.0.0.1
+
+++ L3-1
+menu = Level3 DNS 1
+title = Level3 DNS 4.2.2.1
+host = 4.2.2.1
+
+++ L3-2
+menu = Level3 DNS 2
+title = Level3 DNS 4.2.2.2
+host = 4.2.2.2
+
+++ Quad9
+menu = Quad9
+title = Quad9 DNS 9.9.9.9
+host = 9.9.9.9
