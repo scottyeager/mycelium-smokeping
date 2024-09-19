@@ -29,12 +29,12 @@ The Dockerfile includes a step that will concatenate the Targets files into one.
 
 ### Build and Run
 
-I do recommend using a volume for data. You will also need to run the container as privileged to be able to create the TUN device for Mycelium. The full process might look like this:
+I do recommend using a volume for data. You will need to run the container with some elevated privileges to be able to create the TUN device for Mycelium. It's also necessary to ensure IPv6 is enabled since it's disabled by default in Docker. This should do the trick:
 
 ```
 $EDITOR config/Targets.body
 docker buildx build mycelium-smoketest .
-docker run --privileged -v smokeping-data:/data -p 8112:80 mycelium-smoketest
+docker run --sysctl net.ipv6.conf.all.disable_ipv6=0 --privileged -v smokeping-data:/data -p 8112:80 mycelium-smoketest
 ```
 
 Now the web iterface will be available at `localhost:8112`.
